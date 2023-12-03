@@ -1,0 +1,6 @@
+re
+sys
+json
+os
+deep_translator
+colorama
