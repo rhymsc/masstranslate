@@ -9,14 +9,14 @@ git clone https://github.com/rhymsc/masstranslate.git
 pip install -r requirements.txt
 ```
 ```bash
-python translator.py en zh-TW
+python Translate.py en zh-TW
 ```
 
 ## example
 
 ```python
-python translator.py "file.txt" "fromlanguage" "to language"
+python Translate.py "file.txt" "fromlanguage" "to language"
 ```
 ```python
-python translator.py file.txt en de
+python Translate.py file.txt en de
 ```
